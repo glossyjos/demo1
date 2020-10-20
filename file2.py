@@ -1,1 +1,1 @@
-HEllo World
+print ("HEllo World")
